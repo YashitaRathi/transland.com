@@ -1,0 +1,2565 @@
+@media screen and (max-width:1080px)
+
+/* tablet 992px */
+    {
+    /* Header */
+
+    .heading h1 {
+        margin-bottom: 0px;
+    }
+
+    header section.bar {
+        height: 55px;
+    }
+
+    header section.bar .box01 {
+        position: absolute;
+        left: 10px;
+        top: 15px;
+    }
+
+    header section.bar .box02 {
+        position: absolute;
+        left: 181px;
+        top: 15px;
+    }
+
+    header section.bar .box03 {
+        position: absolute;
+        left: 370px;
+        top: 15px;
+    }
+
+    header {
+        padding-bottom: 0px;
+        position: relative;
+    }
+
+    header .quota {
+        display: none;
+    }
+
+    header li#different {
+        margin: 0px 0px 0px 0px;
+    }
+
+    header .bar .socialmedia img.face01 {
+        position: absolute;
+        right: 180px;
+        top: 20px;
+    }
+
+    header .bar .socialmedia img.face02 {
+        position: absolute;
+        right: 135px;
+        top: 20px;
+    }
+
+    header .bar .socialmedia img.face03 {
+        position: absolute;
+        right: 100px;
+        top: 20px;
+    }
+
+    header .bar .socialmedia img.face04 {
+        position: absolute;
+        right: 55px;
+        top: 20px;
+    }
+
+    header .bar .socialmedia img.face05 {
+        position: absolute;
+        right: 15px;
+        top: 20px;
+    }
+
+    /* Slider */
+
+    .slider .boxx h2 {
+        font-size: 75px;
+        line-height: 90px;
+    }
+
+    .slider .boxx {
+        margin-left: 90px;
+    }
+
+    .slider .boxx p {
+        font-size: 15px;
+        margin-bottom: 35px;
+    }
+
+    /* Overview */
+
+    .overview .abo {
+        padding-left: 20px;
+    }
+
+    .overview .magi .properly .darkblue {
+        font-size: 50px;
+    }
+
+    .overview .magi .properly .blue {
+        font-size: 50px;
+    }
+
+    .overview .magi .faq h2 {
+        font-size: 150px;
+    }
+
+    .overview .magi .redline {
+        top: 99px;
+        left: 140px;
+    }
+
+    .overview .magi {
+        height: 195px;
+    }
+
+    .overview .tetx p {
+        font-size: 13px;
+    }
+
+    .overview .signat {
+        right: 30px;
+        bottom: 165px;
+    }
+
+    .overview .sgm h6 {
+        font-size: 21px;
+        margin-top: 5px;
+    }
+
+    .overview .img img {
+        height: 550px;
+    }
+
+    /* What */
+
+    .what .slick-next {
+        right: 123px;
+        top: -101px;
+    }
+
+    /* Icon */
+
+    .icon .boxx {
+        padding: 60px 10px 60px 0px;
+        border-right: 2px solid rgba(102, 102, 102, 0.5);
+    }
+
+    .icon h3 {
+        font-size: 45px;
+        margin-bottom: 5px;
+    }
+
+    /* Team */
+
+    .team .magi .redline {
+        left: 145px;
+    }
+
+    .team .magi .properly {
+        top: 156px;
+    }
+
+    /* Quote */
+
+    .quote .magi .faq h2 {
+        font-size: 140px;
+    }
+
+    .quote .magi .properly .darkblue {
+        font-size: 47px;
+    }
+
+    .quote .magi .properly .blue {
+        font-size: 47px;
+    }
+
+    .quote .magi {
+        height: 200px;
+    }
+
+    .quote p.paraa {
+        font-size: 16px;
+    }
+
+    .quote .data {
+        margin-top: 85px;
+    }
+
+    .quote .data input {
+        width: 248px;
+    }
+
+    .quote .data select {
+        width: 248px;
+    }
+
+    .quote .data input.whwl {
+        width: 115px;
+    }
+
+    .quote .data input#express {
+        margin-left: 35px;
+    }
+
+    .quote .data input#packaging {
+        margin-left: 35px;
+    }
+
+    .quote .data button.botton {
+        width: 510px;
+    }
+
+    /* Price */
+
+    .price .rectangle00 h6 {
+        padding-left: 10px;
+    }
+
+    .price .rectangle00 p.rules {
+        font-size: 17px;
+    }
+
+    .price .rectangle00 button {
+        margin-right: 10px;
+    }
+
+    .price .rectangle00 button p {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .price .rectangle h6 {
+        padding-left: 10px;
+    }
+
+    .price .rectangle p.rules {
+        font-size: 17px;
+    }
+
+    .price .rectangle button {
+        margin-right: 10px;
+    }
+
+    .price .rectangle button p {
+        font-size: 17px;
+        font-weight: 500;
+    }
+
+    .price .magic .properly {
+        top: 142px;
+    }
+
+    .price .magic .properly .blue {
+        font-size: 60px;
+    }
+
+    .price .magic .properly .darkblue {
+        font-size: 60px;
+    }
+
+    .price .magic .redline {
+        top: 123px;
+    }
+
+    .price .magic .faq h2 {
+        font-size: 136px;
+        padding-top: 35px;
+    }
+
+    /* Review */
+
+    .review .magi .faq h2 {
+        font-size: 160px;
+    }
+
+    .review .magi .redline {
+        top: 114px;
+        left: 383px;
+    }
+
+    .review .magi .properly {
+        top: 130px;
+        left: 176px;
+    }
+
+    .review .phot .whitebo img#lo {
+        left: 85px;
+        margin-top: 50px;
+    }
+
+    .review .phot .whitebo p {
+        font-size: 17px;
+    }
+
+    /* Over */
+
+    /* contract */
+
+    .contract h4 {
+        font-size: 55px;
+    }
+
+    /* News */
+
+    .news .rectang .hovrec h5 {
+        margin-left: 20px;
+    }
+
+    .news .rectang .hovrec p.aut {
+        margin-left: 20px;
+    }
+
+    .news .rectang .hovrec0 h5 {
+        margin-left: 20px;
+    }
+
+    .news .rectang .hovrec0 p.aut {
+        margin-left: 20px;
+    }
+
+    /* Footer */
+
+    footer .email label {
+        right: 0;
+    }
+
+    footer .orangee p {
+        font-size: 12px;
+    }
+
+    footer h5.title {
+        margin-top: -9px;
+    }
+
+    /* ------------------------------------------------Contact us------------------------------------------------------------------ */
+
+    /* Colourrectangle */
+
+    .colourrectangle .rectangle {
+        width: 300px;
+        height: 205px;
+    }
+
+    .colourrectangle .rectangle #circle .imvis {
+        left: 10px;
+    }
+
+    .colourrectangle .rectangle .titlee {
+        font-size: 23px;
+    }
+
+    .colourrectangle .rectangle .sent {
+        font-size: 16px;
+    }
+
+    .colourrectangle .rectangle p.example {
+        font-size: 15px;
+    }
+
+    /* Touch */
+
+    .touch input.name {
+        width: 450px;
+    }
+
+    .touch textarea.your {
+        width: 98%;
+    }
+
+    /* Map */
+
+    .map .rectangle {
+        padding: 0px 20px 20px 20px;
+    }
+
+    .map .rectangle h6 {
+        font-size: 20px;
+    }
+
+    .map .rectangle h6.canada {
+        font-size: 20px;
+    }
+
+    .map .rectangle h6.great {
+        font-size: 20px;
+    }
+
+    .map .rectangle h6::before {
+        width: 221px;
+        height: 10px;
+    }
+
+    .map .fll .rectangle p.addre {
+        font-size: 16px;
+    }
+
+    .map .fll .rectangle p.plusnum {
+        font-size: 17px;
+    }
+
+    .map {
+        padding-bottom: 12%;
+    }
+
+    /* ------------------------------------------------About------------------------------------------------------------------ */
+
+    /* Features */
+
+    .features .magi .faq h2 {
+        font-size: 175px;
+    }
+
+    .features .magi .redline {
+        left: 397px;
+    }
+
+    .features .magi .properly {
+        top: 140px;
+        left: 60px;
+    }
+
+    .features .box h5 {
+        font-size: 27px;
+    }
+
+    /*-----------------------------------------------------Our services-----------------------------------------------*/
+
+    /* Freight */
+
+    .freight .magi .properly {
+        left: 137px;
+    }
+
+    .freight .magi .redline {
+        top: 160px;
+        left: 274px;
+    }
+
+    .freight .air .img00::before {
+        width: 100%;
+    }
+
+    .freight .air .img00 .overl {
+        width: 298px;
+        padding: 0px 23px;
+    }
+
+    /* Work */
+
+    .work .how p.n1 {
+        margin-top: 52px;
+    }
+
+    /* Solution */
+
+    .solution .magic .properly {
+        top: 137px;
+        left: 13%;
+    }
+
+    .solution .magic .redline {
+        top: 115px;
+        left: 38%;
+    }
+
+    .solution .transport .operate p.kk {
+        font-size: 14px;
+    }
+
+    .solution .transport .operat p.kk {
+        font-size: 14px;
+    }
+
+    .solution .transport .operat .box01 p.kk {
+        padding-right: 50px;
+    }
+
+    .solution .transport .operat .box02 p.kk {
+        padding-right: 53px;
+    }
+
+    .solution .transport .operat .box03 p.kk {
+        padding-right: 60px;
+    }
+
+    .solution .transport .operate .box01 p.kk {
+        padding-right: 35px;
+    }
+
+    .solution .transport .operate .box02 p.kk {
+        padding-right: 108px;
+    }
+
+    .solution .transport .operate .box03 p.kk {
+        padding-right: 79px;
+    }
+
+    .solution .transport .operat .box04 p.kk {
+        padding-right: 50px;
+    }
+
+    .solution .transport .operat .box05 p.kk {
+        padding-right: 89px;
+    }
+
+    .solution .transport .operat .box06 p.kk {
+        padding-right: 80px;
+    }
+
+    /* Companies */
+
+    .companies .magi .properly {
+        top: 164px;
+        left: 32px;
+    }
+
+    .companies .magi .redline {
+        top: 145px;
+        left: 295px;
+    }
+
+    /*---------------------------------------------------------Pricing------------------------------------------------------*/
+
+    /* Plans */
+
+    .plans h4 {
+        font-size: 80px;
+    }
+
+    .plans .rectanglee {
+        padding: 50px 20px 50px 20px;
+    }
+
+    .plans .rectangleo {
+        padding: 50px 20px 50px 20px;
+    }
+
+    .plans .rectangleo h3 {
+        margin: 30px 0px 0px 0px;
+    }
+
+    .plans .rectangleo p {
+        font-size: 17px;
+    }
+
+    .plans .rectangle p.war {
+        padding-right: 115px;
+    }
+
+    .plans .rectangle p {
+        font-size: 17px;
+    }
+
+    .plans .rectangle p.busin {
+        padding-right: 39px;
+    }
+
+    .plans .rectangle p.fifty {
+        padding-right: 55px;
+    }
+
+    .plans .rectangle p.perc {
+        padding-right: 96px;
+    }
+
+    .plans .rectangle p.real {
+        padding-right: 26px;
+    }
+
+    .plans .rectangle {
+        padding: 50px 20px 50px 20px;
+    }
+
+    .plans .rectangle h3 {
+        margin: 30px 0px 0px 0px;
+    }
+
+    .plans .rectanglee p {
+        font-size: 17px;
+    }
+
+    .plans .rectanglee p.war {
+        padding-right: 105px;
+    }
+
+    .plans .rectanglee p.busin {
+        padding-right: 27px;
+    }
+
+    .plans .rectanglee p.real {
+        padding-right: 17px;
+    }
+
+    .plans .rectanglee p.perc {
+        padding-right: 87px;
+    }
+
+    .plans .rectanglee p.fifty {
+        padding-right: 38px;
+    }
+
+    .plans .rectanglee h3 {
+        margin: 30px 0px 0px 0px;
+    }
+
+    .plans .rectangleo p.war {
+        padding-right: 109px;
+    }
+
+    .plans .rectangleo p.busin {
+        padding-right: 25px;
+    }
+
+    .plans .rectangleo p.real {
+        padding-right: 13px;
+    }
+
+    .plans .rectangleo p.perc {
+        padding-right: 87px;
+    }
+
+    .plans .rectangleo p.fifty {
+        padding-right: 33px;
+    }
+
+    /* Contract00 */
+    .contract00 {
+        padding: 50px 80px 100px 80px;
+    }
+
+    /* -------------------------------------------------------------Faq------------------------------------------------------------ */
+
+
+    /* Investor */
+
+    .investor .inquire {
+        width: 390px;
+    }
+
+    .investor .magi .properly .darkblue {
+        font-size: 60px;
+    }
+
+    .investor .magi .properly .blue {
+        font-size: 60px;
+    }
+
+}
+
+@media screen and (max-width:991px)
+
+/* ipad 768px */
+    {
+    /* Header */
+
+    header .quota {
+        display: block;
+        margin-top: 0px;
+        margin-left: 20px;
+    }
+
+    header .navbar-brand img {
+        width: 50%;
+    }
+
+    header .bar .information p {
+        font-size: 12px;
+    }
+
+    header .bar .information p.phonenum {
+        padding-left: 0px;
+    }
+
+    header section.bar .box02 {
+        left: 140px;
+    }
+
+    header section.bar .box03 {
+        left: 290px;
+    }
+
+    /*Slider*/
+
+    .slider .boxx h2 {
+        font-size: 55px;
+        line-height: 71px;
+    }
+
+    .slider .boxx h2.redline::before {
+        width: 100%;
+    }
+
+    /* Overview */
+
+    .overview .magi .faq h2 {
+        font-size: 120px;
+    }
+
+    .overview .magi .redline {
+        top: 74px;
+        left: 110px;
+    }
+
+    .overview .magi .properly {
+        top: 90px;
+    }
+
+    .overview .magi .properly .blue {
+        font-size: 44px;
+    }
+
+    .overview .magi .properly .darkblue {
+        font-size: 44px;
+    }
+
+    .overview .magi {
+        height: 160px;
+    }
+
+    .overview .tetx p {
+        font-size: 11px;
+    }
+
+    .overview .sgm p {
+        font-size: 17px;
+    }
+
+    .overview .sgm h6 {
+        font-size: 18px;
+    }
+
+    .overview .signat {
+        bottom: 150px;
+    }
+
+    .overview .img img {
+        height: 475px;
+    }
+
+    /* What */
+
+    .what .magi .properly {
+        top: 105px;
+    }
+
+    .what .magi .faq h2 {
+        font-size: 140px;
+    }
+
+    .what .slick-prev {
+        left: 69%;
+    }
+
+    /* Icon */
+
+    .icon .boxx#ss0 {
+        padding: 60px 10px 60px 0px;
+        border-right: none;
+        position: relative;
+    }
+
+    .icon .boxx#ss0::before {
+        content: "";
+        width: 751px;
+        height: 2px;
+        background-color: rgba(102, 102, 102, 0.5);
+        position: absolute;
+        bottom: 0;
+        left: -388px;
+    }
+
+    /* Team */
+
+    .team .magi .faq h2 {
+        font-size: 180px;
+    }
+
+    .team .magi .redline {
+        top: 118px;
+        left: 133px;
+    }
+
+    .team .magi .properly .darkblue {
+        font-size: 50px;
+    }
+
+    .team .magi .properly .blue {
+        font-size: 50px;
+    }
+
+    /* Quote */
+
+    .quote .magi .properly .darkblue {
+        font-size: 70px;
+    }
+
+    .quote .magi .properly .blue {
+        font-size: 70px;
+    }
+
+    .quote .magi .faq h2 {
+        font-size: 172px;
+    }
+
+    .quote .magi .properly {
+        top: 125px;
+    }
+
+    .quote .magi {
+        height: 220px;
+    }
+
+    .quote .magi .redline {
+        top: 110px;
+        left: 153px;
+    }
+
+    .quote p.paraa {
+        font-size: 19px;
+    }
+
+    .quote .ware {
+        margin-left: 25px;
+    }
+
+    .quote .online {
+        margin-left: 25px;
+    }
+
+    .quote {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .quote .data input {
+        width: 325px;
+    }
+
+    .quote .data select {
+        width: 325px;
+    }
+
+    .quote .data input.whwl {
+        width: 155px;
+    }
+
+    .quote .data button.botton {
+        width: 670px;
+    }
+
+    .quote .ware h6 {
+        font-size: 25px;
+    }
+
+    .quote .online h6 {
+        font-size: 25px;
+    }
+
+    /* Price */
+
+    .price .rectangle00 h5 {
+        font-size: 40px;
+        line-height: 32px;
+        padding-top: 20px;
+    }
+
+    .price .rectangle h5 {
+        font-size: 40px;
+        line-height: 32px;
+        padding-top: 20px;
+    }
+
+    .price .rectangle00 p.rules {
+        font-size: 15px;
+        margin-left: 14px;
+    }
+
+    .price .rectangle p.rules {
+        font-size: 15px;
+        margin-left: 14px;
+    }
+
+    .price .magic {
+        height: 230px;
+    }
+
+    .price .magic .faq h2 {
+        font-size: 116px;
+        padding-top: 16px;
+    }
+
+    .price .magic .redline {
+        top: 90px;
+    }
+
+    .price .magic .properly {
+        top: 111px;
+        left: 3%;
+    }
+
+    /* Review */
+
+    .review .magi .faq h2 {
+        font-size: 150px;
+    }
+
+    .review .magi .properly {
+        top: 120px;
+        left: 54px;
+    }
+
+    .review .magi .redline {
+        top: 106px;
+        left: 280px;
+    }
+
+    .review .phot .whitebo img#lo {
+        left: 58px;
+    }
+
+    .review .phot .whitebo h5 {
+        font-size: 23px;
+    }
+
+    .review .phot .whitebo p {
+        font-size: 12px;
+    }
+
+    /* Warehouse */
+
+    /* Over */
+
+    .over .trust .text h1 {
+        font-size: 165px;
+    }
+
+    /* contract */
+
+    section.contract {
+        padding: 50px 50px 50px 50px;
+    }
+
+    .contract h4 {
+        font-size: 47px;
+        line-height: 60px;
+    }
+
+    /* News */
+
+    .news .magi .faq h2 {
+        font-size: 145px;
+    }
+
+    .news .magi .redline {
+        top: 93px;
+    }
+
+    .news .magi {
+        height: 175px;
+    }
+
+    .news .magi .properly {
+        top: 103px;
+        left: 6px;
+    }
+
+    .news .rectang .hovrec h6.hash {
+        font-size: 12px;
+    }
+
+    .news .rectang .hovrec h6.first {
+        font-size: 12px;
+    }
+
+    .news .rectang .hovrec h6.second {
+        font-size: 12px;
+    }
+
+    .news .rectang .hovrec0 h6.hash {
+        font-size: 12px;
+    }
+
+    .news .rectang .hovrec0 h6.first {
+        font-size: 12px;
+    }
+
+    .news .rectang .hovrec0 h6.second {
+        font-size: 12px;
+    }
+
+    .news .rectang .hovrec h4 {
+        font-size: 16px;
+    }
+
+    .news .rectang .hovrec0 h4 {
+        font-size: 16px;
+    }
+
+    .news .rectang .hovrec .more p {
+        font-size: 12px;
+    }
+
+    .news .rectang .hovrec0 .more p {
+        font-size: 12px;
+    }
+
+    .news .rectang .hovrec .more {
+        padding: 10px 6px 10px 6px;
+        top: 0px;
+        left: 14px;
+    }
+
+    .news .rectang .hovrec0 h5 {
+        margin-top: -6px;
+        font-size: 19px;
+    }
+
+    .news .rectang .hovrec h5 {
+        margin-top: -6px;
+        font-size: 19px;
+    }
+
+    .news .rectang .hovrec0 .more {
+        padding: 10px 6px 10px 6px;
+        top: 0px;
+        left: 14px;
+    }
+
+    .news .rectang .hovrec {
+        padding: 30px 30px 30px 30px;
+    }
+
+    .news .rectang .hovrec0 {
+        padding: 30px 30px 30px 30px;
+    }
+
+    .news .rectang .hovrec0 .more {
+        padding: 10px 6px 10px 6px;
+        top: 0px;
+        left: 14px;
+    }
+
+    /* Footer */
+
+    footer .orangee .sm img {
+        padding-left: 6px;
+    }
+
+    footer #ipad {
+        display: block;
+    }
+
+    footer #desktop {
+        display: none;
+    }
+
+    footer p {
+        font-size: 14px;
+    }
+
+    footer p.foot {
+        font-size: 14px;
+    }
+
+    footer h5.title {
+        margin-bottom: 15px;
+    }
+
+    footer .logo {
+        margin-bottom: 20px;
+    }
+
+    footer .email label {
+        right: 83px;
+    }
+
+    /* ------------------------------------------------Contact us------------------------------------------------------------------ */
+
+    /* Colourrectangle */
+
+    .colourrectangle {
+        padding: 50px 0px 50px 0px;
+    }
+
+    .colourrectangle .rectangle {
+        width: 235px;
+        height: 210px;
+    }
+
+    .colourrectangle .rectangle #circle .imvis {
+        left: 0px;
+    }
+
+    .colourrectangle .rectangle #circle .imvi {
+        left: 0px;
+    }
+
+    .colourrectangle .rectangle .sent {
+        font-size: 13px;
+    }
+
+    .colourrectangle .rectangle #one0 {
+        margin-bottom: 10px;
+    }
+
+    .colourrectangle .rectangle p.example {
+        padding: 0px;
+    }
+
+    .colourrectangle .rectangle .invis {
+        right: 5px;
+        top: 0px;
+    }
+
+    /* Touch */
+
+    .touch input.name {
+        width: 350px;
+    }
+
+    .touch .magic .faq h2 {
+        font-size: 150px;
+    }
+
+    .touch .magic .redline {
+        position: absolute;
+        top: 106px;
+        left: 42%;
+    }
+
+    .touch .magic .properly {
+        position: absolute;
+        top: 120px;
+        left: 22%;
+    }
+
+    /* Map */
+
+    .map .rectangle {
+        padding: 0px 10px 20px 10px;
+    }
+
+    .map .rectangle h6::before {
+        width: 85px;
+    }
+
+    .map .fll .rectangle p.addre#ll {
+        font-size: 16px;
+        padding-top: 20px;
+    }
+
+    .map .fll .rectangle p.plusnum {
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+
+    .map .fll .rectangle p.support {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+
+    .map .rectangle h6.canada:before {
+        width: 65%;
+        height: 22%;
+    }
+
+    .map .fll .rectangle p.bran {
+        font-size: 16px;
+    }
+
+    .map .rectangle h6.great::before {
+        width: 77%;
+    }
+
+    /* ------------------------------------------------About------------------------------------------------------------------ */
+
+    /* Features */
+
+    .features .magi .faq h2 {
+        font-size: 150px;
+    }
+
+    .features .magi .redline {
+        top: 97px;
+        left: 141px;
+    }
+
+    .features .magi .properly {
+        top: 118px;
+        left: 10px;
+    }
+
+    .features .magi .properly .blue {
+        font-size: 60px;
+    }
+
+    .features .magi .properly .darkblue {
+        font-size: 60px;
+    }
+
+    .features .magi {
+        margin-bottom: 0px;
+    }
+
+    .features .box p {
+        font-size: 15px;
+    }
+
+    .features .box h5 {
+        font-size: 18px;
+    }
+
+    /*-----------------------------------------------------Our services-----------------------------------------------*/
+
+    /* Freight */
+
+    .freight .magi .properly {
+        left: 27px;
+    }
+
+    .freight .magi .redline {
+        left: 228px;
+    }
+
+    .freight .air .img00 {
+        height: 278px;
+    }
+
+    .freight .air img {
+        height: 270px;
+    }
+
+    .freight .air .img00::before {
+        bottom: 0px;
+        height: 100%;
+        width: 100%;
+    }
+
+    .freight .air .img00 .overl {
+        width: 225px;
+        padding: 0px 10px;
+    }
+
+    .freight .air .img00 .overl p {
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .freight .air .img00 .overl h5 {
+        font-size: 28px;
+        font-weight: 500;
+    }
+
+
+
+    /* Work */
+
+    .work .magic .properly {
+        left: 20%;
+    }
+
+    .work .how h6 {
+        font-size: 20px;
+        font-weight: 500;
+        margin-top: 40px;
+    }
+
+    .work .how p.n1 {
+        margin-top: 44px;
+    }
+
+    /* Solution */
+
+    .solution .magic .faq h2 {
+        font-size: 160px;
+    }
+
+    .solution .magic .properly {
+        top: 128px;
+        left: 8%;
+    }
+
+    .solution .magic .properly .blue {
+        font-size: 60px;
+    }
+
+    .solution .transport .operat h5 {
+        font-size: 35px;
+    }
+
+    .solution .transport .operate h5 {
+        font-size: 35px;
+    }
+
+    .solution .transport .operate p {
+        font-size: 21px;
+    }
+
+    .solution .transport .operat p.kk {
+        font-size: 25px;
+    }
+
+    .solution .transport .operate p.kk {
+        font-size: 25px;
+    }
+
+    .solution .transport .operat .box01 p.kk {
+        padding-right: 125px;
+    }
+
+    .solution .transport .operat .box02 p.kk {
+        padding-right: 126px;
+    }
+
+    .solution .transport .operat p {
+        font-size: 21px;
+    }
+
+    .solution .transport .operate {
+        margin-bottom: 50px;
+        margin-top: 50px;
+    }
+
+    .solution .transport .operat .box03 p.kk {
+        padding-right: 140px;
+    }
+
+    .solution .transport .operate .box03 p.kk {
+        padding-right: 168px;
+    }
+
+    .solution .transport .operate .box02 p.kk {
+        padding-right: 220px;
+    }
+
+    .solution .transport .operate .box01 p.kk {
+        padding-right: 90px;
+    }
+
+    .solution .transport .operat .box06 p.kk {
+        padding-right: 144px;
+    }
+
+    .solution .transport .operat .box05 p.kk {
+        padding-right: 159px;
+    }
+
+    .solution .transport .operat .box04 p.kk {
+        padding-right: 90px;
+    }
+
+    /* Companies */
+
+    .companies .magi .faq h2 {
+        font-size: 150px;
+    }
+
+    .companies .magi .properly .blue {
+        font-size: 55px;
+    }
+
+    .companies .magi .properly .darkblue {
+        font-size: 55px;
+    }
+
+    .companies .magi .redline {
+        top: 106px;
+        left: 268px;
+    }
+
+    .companies .magi .properly {
+        top: 123px;
+        left: 0px;
+    }
+
+    .companies .magi {
+        margin-bottom: 0px;
+    }
+
+    /*---------------------------------------------------------Pricing------------------------------------------------------*/
+
+    /* Plans */
+
+    .plans .rectangle {
+        padding: 35px 10px 50px 10px;
+    }
+
+    .plans .rectanglee {
+        padding: 35px 10px 50px 10px;
+    }
+
+    .plans .rectangleo {
+        padding: 35px 10px 50px 10px;
+    }
+
+    .plans .rectangle p.war {
+        padding-right: 80px;
+    }
+
+    .plans .rectangle p {
+        font-size: 14px;
+    }
+
+    .plans .rectanglee p {
+        font-size: 14px;
+    }
+
+    .plans .rectangleo p {
+        font-size: 14px;
+    }
+
+    .plans .rectangle p.busin {
+        padding-right: 20px;
+    }
+
+    .plans .rectangle p.real {
+        padding-right: 10px;
+    }
+
+    .plans .rectangle p.perc {
+        padding-right: 69px;
+    }
+
+    .plans .rectangle p.fifty {
+        padding-right: 35px;
+    }
+
+    .plans .rectangle h3 {
+        font-size: 46px;
+    }
+
+    .plans .rectanglee h3 {
+        font-size: 46px;
+    }
+
+    .plans .rectangleo h3 {
+        font-size: 46px;
+    }
+
+    .plans .rectangle button {
+        bottom: 10px;
+        left: 15px;
+    }
+
+    .plans .rectanglee button {
+        bottom: 10px;
+        left: 15px;
+    }
+
+    .plans .rectangleo button {
+        bottom: 10px;
+        left: 15px;
+    }
+
+    .plans .rectangle .box {
+        padding: 15px 10px 10px 10px;
+    }
+
+    .plans .rectanglee .box {
+        padding: 15px 10px 10px 10px;
+    }
+
+    .plans .rectangleo .box {
+        padding: 15px 10px 10px 10px;
+    }
+
+    .plans .rectanglee p.war {
+        padding-right: 90px;
+    }
+
+    .plans .rectanglee p.real {
+        padding-right: 20px;
+    }
+
+    .plans .rectanglee p.perc {
+        padding-right: 78px;
+    }
+
+    .plans .rectanglee p.fifty {
+        padding-right: 37px;
+    }
+
+    .plans .rectangleo p.war {
+        padding-right: 89px;
+    }
+
+    .plans .rectangleo p.real {
+        padding-right: 19px;
+    }
+
+    .plans .rectangleo p.perc {
+        padding-right: 75px;
+    }
+
+    .plans .rectangleo p.fifty {
+        padding-right: 35px;
+    }
+
+    .plans {
+        padding-bottom: 50px;
+        padding-top: 50px;
+    }
+
+    .plans h4 {
+        font-size: 75px;
+    }
+
+    /* Contract00 */
+
+    .contract00 h4 {
+        font-size: 43px;
+    }
+
+    /* -------------------------------------------------------------Faq------------------------------------------------------------ */
+
+    /* Investor */
+
+    .investor {
+        padding-top: 0px;
+    }
+
+    .investor .magi .properly {
+        top: 154px;
+    }
+
+    .investor .magi {
+        margin-bottom: 15px;
+    }
+
+    .investor .inquire {
+        width: 355px;
+    }
+
+    .investor .magi .properly .darkblue {
+        font-size: 50px;
+    }
+
+    .investor .magi .properly .blue {
+        font-size: 50px;
+    }
+
+    .investor .logistics h2#down button {
+        font-weight: 500;
+    }
+
+    .investor .inquire {
+        margin-top: 100px;
+        padding: 20px;
+    }
+
+    /* Project */
+
+    .project .logistics h2#down button {
+        font-weight: 500;
+    }
+}
+
+@media screen and (max-width:767px)
+
+/* mobile 360px */
+    {
+    /* Header */
+
+    header section.bar {
+        height: 100px;
+    }
+
+    header section.bar .box01 {
+        left: 31px;
+        top: 13px;
+    }
+
+    header section.bar .box02 {
+        left: 185px;
+        top: 10px;
+    }
+
+    header section.bar .box03 {
+        left: 96px;
+        top: 40px;
+    }
+
+    header .bar .socialmedia img.face05 {
+        left: 238px;
+        top: 81px;
+    }
+
+    header .bar .socialmedia img.face04 {
+        left: 190px;
+        top: 82px;
+    }
+
+    header .bar .socialmedia img.face03 {
+        left: 150px;
+        top: 80px;
+    }
+
+    header .bar .socialmedia img.face02 {
+        left: 105px;
+        top: 80px;
+    }
+
+    header .bar .socialmedia img.face01 {
+        left: 80px;
+        top: 80px;
+    }
+
+    header section.bar {
+        height: 120px;
+    }
+
+    /* Slider */
+
+    .slider .redd {
+        display: none;
+    }
+
+    .slider .slider01 {
+        padding: 100px 0px;
+    }
+
+    .slider .slider02 {
+        padding: 100px 0px;
+    }
+
+    .slider .slick-next {
+        right: 70px;
+    }
+
+    .slider .boxx h2.redline::before {
+        width: 178px;
+        bottom: 6px;
+        left: -134px;
+    }
+
+    .slider .boxx h2 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+
+    .slider .slick-prev:before,
+    .slick-next:before {
+        font-size: 30px;
+    }
+
+    .slider .boxx {
+        margin-left: 62px;
+    }
+
+    /* Overview */
+
+    .overview {
+        padding: 50px 0px 110px 0px;
+    }
+
+    .overview .signat {
+        left: 10px;
+        bottom: 10px;
+    }
+
+    .overview .magi .faq h2 {
+        font-size: 95px;
+    }
+
+    .overview .img img {
+        height: 400px;
+        margin-bottom: 20px;
+    }
+
+    .overview .abo {
+        padding-left: 10px;
+    }
+
+    .overview .magi .redline {
+        top: 50px;
+        left: 65px;
+    }
+
+    .overview .magi .properly {
+        top: 75px;
+    }
+
+    .overview .magi .properly .darkblue {
+        font-size: 30px;
+    }
+
+    .overview .magi .properly .blue {
+        font-size: 30px;
+    }
+
+    .overview .magi {
+        height: 130px;
+    }
+
+    /* What */
+
+    .what .magi .faq h2 {
+        font-size: 95px;
+    }
+
+    .what .magi .redline {
+        top: 57px;
+        left: 70px;
+    }
+
+    .what .magi .properly {
+        top: 70px;
+    }
+
+    .what .magi .properly .darkblue {
+        font-size: 45px;
+    }
+
+    .what .magi .properly .blue {
+        font-size: 45px;
+    }
+
+    .what .slick-prev {
+        left: 29%;
+        top: -28px;
+    }
+
+    .what h4 {
+        margin-top: 20px;
+    }
+
+    .what .slick-next {
+        right: 123px;
+        top: -29px;
+    }
+
+    .what .box2 img,
+    .what .box1 img {
+        height: 300px;
+    }
+
+    /* Icon */
+
+    .icon .boxx#ss0::before {
+        width: 719px;
+    }
+
+    .icon .boxx {
+        border: none;
+        position: relative;
+        padding: 60px 10px 0px 0px;
+    }
+
+    .icon .boxx#ss0 {
+        padding: 60px 10px 0px 0px;
+    }
+
+    .icon .boxx::before {
+        content: "";
+        width: 719px;
+        height: 2px;
+        background-color: rgba(102, 102, 102, 0.5);
+        position: absolute;
+        bottom: 0;
+        left: -388px;
+    }
+
+    /* Team */
+
+    .team .magi .faq h2 {
+        font-size: 110px;
+    }
+
+    .team .magi .redline {
+        top: 64px;
+        left: 122px;
+    }
+
+    .team .magi .properly {
+        top: 90px;
+    }
+
+    .team .magi .properly .darkblue {
+        font-size: 37px;
+    }
+
+    .team .magi .properly .blue {
+        font-size: 37px;
+    }
+
+    .team .magi {
+        height: 170px;
+    }
+
+    .team .hov .gla {
+        margin-bottom: 20px;
+    }
+
+    /* Quote */
+
+    .quote .data button.botton {
+        width: 260px;
+        padding: 14px 0px;
+    }
+
+    .quote .data button.botton p {
+        font-size: 17px;
+    }
+
+    .quote .data input#packaging {
+        margin-left: 20px;
+    }
+
+    .quote .data input.whwl {
+        width: 260px;
+    }
+
+    .quote .data select {
+        width: 260px;
+    }
+
+    .quote .data input {
+        width: 260px;
+    }
+
+    .quote .data h4 {
+        margin-bottom: 30px;
+        font-size: 32px;
+    }
+
+    .quote .magi .faq h2 {
+        font-size: 110px;
+    }
+
+    .quote .magi .redline {
+        top: 65px;
+        left: 50px;
+    }
+
+    .quote .magi .properly .blue {
+        font-size: 37px;
+    }
+
+    .quote .magi .properly .darkblue {
+        font-size: 37px;
+    }
+
+    .quote .magi .properly {
+        top: 90px;
+    }
+
+    .quote .magi {
+        height: 160px;
+    }
+
+    .quote p.paraa {
+        font-size: 14px;
+    }
+
+    /* Price */
+
+    .price {
+        padding-bottom: 50px;
+    }
+
+    .price .rectangle00 h6 {
+        padding-left: 14px;
+        font-size: 35px;
+        margin: 0;
+    }
+
+    .price .rectangle00 h5 {
+        text-align: left;
+        padding-left: 14px;
+    }
+
+    .price .rectangle00 button {
+        margin-left: 14px;
+    }
+
+    .price .rectangle00 {
+        padding-bottom: 30px;
+    }
+
+    .price .rectangle00 h5 {
+        padding-top: 0px;
+    }
+
+    .price .rectangle h6 {
+        padding-left: 14px;
+        font-size: 35px;
+        margin: 0;
+    }
+
+    .price .rectangle h5 {
+        text-align: left;
+        padding-left: 14px;
+    }
+
+    .price .rectangle button {
+        margin-left: 14px;
+    }
+
+    .price .rectangle {
+        padding-bottom: 30px;
+    }
+
+    .price .rectangle h5 {
+        padding-top: 0px;
+    }
+
+    .price .magic {
+        height: 250px;
+    }
+
+    .price .rectangle {
+        padding-bottom: 10px;
+        padding-top: 0px;
+        margin-top: 60px;
+    }
+
+    .price .magic .redline {
+        left: 34%;
+    }
+
+    .price .magic .properly .blue {
+        font-size: 45px;
+    }
+
+    .price .magic .properly .darkblue {
+        font-size: 45px;
+    }
+
+    .price .rectangle {
+        margin-top: 0px;
+    }
+
+    .price .rectangle p.rules {
+        padding-top: 10px;
+    }
+
+    /* Review */
+
+    .review .magi .faq h2 {
+        font-size: 90px;
+    }
+
+    .review .magi .redline {
+        top: 54px;
+        left: 100px;
+    }
+
+    .review .magi .properly {
+        top: 69px;
+        left: 0px;
+    }
+
+    .review .magi .properly .blue {
+        font-size: 36px;
+    }
+
+    .review .magi .properly .darkblue {
+        font-size: 36px;
+    }
+
+    .review .phot .whitebo {
+        margin-bottom: 90px;
+    }
+
+    .review .phot .whitebo img#lo {
+        left: 115px;
+    }
+
+    .review .phot .whitebo h5 {
+        font-size: 30px;
+    }
+
+    .review .phot .whitebo p {
+        font-size: 18px;
+    }
+
+    .review {
+        padding-bottom: 0px;
+    }
+
+    /* Over */
+
+    .over .trust .text h1 {
+        font-size: 75px;
+    }
+
+    .over {
+        padding-top: 50px;
+        padding-bottom: 400px;
+    }
+
+    /* News */
+
+    .news .rectang .hovrec0 h6.first {
+        font-size: 19px;
+    }
+
+    .news .rectang .hovrec h6.first {
+        font-size: 19px;
+    }
+
+    .news .rectang .hovrec h6.hash {
+        font-size: 19px;
+    }
+
+    .news .rectang .hovrec0 h6.hash {
+        font-size: 19px;
+    }
+
+    .news .rectang .hovrec h6.second {
+        font-size: 19px;
+    }
+
+    .news .rectang .hovrec0 h6.second {
+        font-size: 19px;
+    }
+
+    .news .rectang .hovrec0 h4 {
+        font-size: 23px;
+    }
+
+    .news .rectang .hovrec h4 {
+        font-size: 23px;
+    }
+
+    .news .rectang .hovrec0 {
+        padding: 20px 20px 20px 20px;
+    }
+
+    .news .rectang .hovrec {
+        padding: 20px 20px 20px 20px;
+        margin-bottom: 20px;
+    }
+
+    .news .rectang .hovrec .more {
+        padding: 15px 8px 14px 8px;
+        top: -11px;
+    }
+
+    .news .rectang .hovrec .more p {
+        font-size: 18px;
+    }
+
+    .news .rectang .hovrec0 .more p {
+        font-size: 18px;
+    }
+
+    .news .rectang .hovrec p.aut {
+        margin-left: 67px;
+        font-size: 18px;
+    }
+
+    .news .rectang .hovrec0 p.aut {
+        margin-left: 67px;
+        font-size: 18px;
+    }
+
+    .news .rectang .hovrec h5 {
+        margin-top: -6px;
+        font-size: 21px;
+        margin-left: 65px;
+    }
+
+    .news .rectang .hovrec0 h5 {
+        margin-top: -6px;
+        font-size: 21px;
+        margin-left: 65px;
+    }
+
+    .news .rectang .hovrec0 .more {
+        padding: 15px 8px 14px 8px;
+        top: -11px;
+        left: 14px;
+    }
+
+    .news .magi .faq h2 {
+        font-size: 115px;
+    }
+
+    .news .magi .redline {
+        top: 69px;
+    }
+
+    .news .magi .properly .blue {
+        font-size: 40px;
+    }
+
+    .news .magi .properly {
+        top: 90px;
+    }
+
+    .news .magi .properly .darkblue {
+        font-size: 40px;
+    }
+
+    .news .magi {
+        margin-bottom: 0px;
+    }
+
+    /* Footer */
+
+    footer .orangee .sm {
+        text-align: left;
+        padding-top: 10px;
+    }
+
+    footer h5.title {
+        margin-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    /* ------------------------------------------------Contact us------------------------------------------------------------------ */
+
+    /* Pages */
+
+    .pages {
+        height: 45px;
+        padding: 11px 0px;
+    }
+
+    .pages h6.first {
+        font-size: 16px;
+    }
+
+    .pages h6.third {
+        font-size: 16px;
+    }
+
+    /* Colourrectangle */
+
+    .colourrectangle .rectangle {
+        width: 318px;
+        margin-bottom: 20px;
+        height: 210px;
+    }
+
+    .colourrectangle .rectangle .titlee {
+        font-size: 26px;
+        margin-top: 10px;
+        margin-left: 73px;
+    }
+
+    .colourrectangle .rectangle .sent {
+        font-size: 15px;
+        margin-left: 73px;
+    }
+
+    .colourrectangle .rectangle .invis {
+        right: 20px;
+        top: -58px;
+    }
+
+    /* Touch */
+
+    .touch .magic .faq h2 {
+        font-size: 78px;
+    }
+
+    .touch .magic .redline {
+        top: 46px;
+        left: 39%;
+    }
+
+    .touch .magic .properly {
+        top: 58px;
+        left: 0%;
+    }
+
+    .touch .magic .properly .blue {
+        font-size: 50px;
+    }
+
+    .touch .magic .properly .darkblue {
+        font-size: 50px;
+    }
+
+    .touch .magic {
+        height: 130px;
+    }
+
+    .touch label {
+        font-size: 20px;
+    }
+
+    .touch input.name {
+        width: 315px;
+        height: 50px;
+        margin-bottom: 15px;
+    }
+
+    /* Map */
+
+    .map {
+        padding: 30px 0px 100px 0px;
+    }
+
+    .map h5 {
+        font-size: 30px;
+        margin-bottom: 0px;
+    }
+
+    .map .rectangle h6 {
+        font-size: 26px;
+    }
+
+    .map .rectangle h6::before {
+        width: 97%;
+    }
+
+    .map .rectangle h6.canada {
+        font-size: 28px;
+    }
+
+    .map .rectangle h6.canada:before {
+        width: 95%;
+        height: 50%;
+    }
+
+    .map .rectangle h6.great {
+        font-size: 34px;
+    }
+
+    .map h4 {
+        font-size: 50px;
+    }
+
+    /* ------------------------------------------------About------------------------------------------------------------------ */
+
+    /* Features */
+
+    .features .magi .faq h2 {
+        font-size: 70px;
+    }
+
+    .features .magi .redline {
+        top: 35px;
+        left: 74px;
+    }
+
+    .features .magi .properly {
+        top: 56px;
+        left: 5px;
+    }
+
+    .features .magi .properly .darkblue {
+        font-size: 26px;
+    }
+
+    .features .magi .properly .blue {
+        font-size: 26px;
+    }
+
+    .features .box h5 {
+        font-size: 19px;
+    }
+
+    .features .magi {
+        height: 120px;
+    }
+
+    /*-----------------------------------------------------Our services-----------------------------------------------*/
+
+    /* Freight */
+
+    .freight .magi .faq h2 {
+        font-size: 90px;
+    }
+
+    .freight .magi .redline {
+        left: 70px;
+        top: 54px;
+    }
+
+    .freight .magi .properly .darkblue {
+        font-size: 32px;
+    }
+
+    .freight .magi .properly .blue {
+        font-size: 32px;
+    }
+
+    .freight .magi .properly {
+        left: 0px;
+        top: 86px;
+    }
+
+    .freight .magi {
+        height: 130px;
+        margin-bottom: 0px;
+    }
+
+    .freight .air .img00 {
+        height: 270px;
+    }
+
+    .freight .air .img00 .overl {
+        width: 318px;
+        padding: 0px 30px;
+    }
+
+    /* Work */
+
+    .work .magic .faq h2 {
+        font-size: 110px;
+    }
+
+    .work .magic .redline {
+        top: 67px;
+        left: 30%;
+    }
+
+    .work .magic .properly {
+        left: 0%;
+        top: 95px;
+    }
+
+    .work .magic .properly .blue {
+        font-size: 44px;
+    }
+
+    .work .magic {
+        height: 160px;
+    }
+
+    .work .how h6 {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    .work .how p.n1 {
+        margin-top: 0px;
+        margin-bottom: 40px;
+    }
+
+    .work .how p {
+        margin-bottom: 40px;
+    }
+
+    /* Solution */
+
+    .solution .magic .faq h2 {
+        font-size: 75px;
+    }
+
+    .solution .magic .redline {
+        top: 47px;
+        left: 25%;
+    }
+
+    .solution .magic .properly {
+        top: 64px;
+        left: 0%;
+    }
+
+    .solution .magic .properly .blue {
+        font-size: 31px;
+    }
+
+    .solution .transport .operat p.kk {
+        font-size: 18px;
+    }
+
+    .solution .transport .operate p.kk {
+        font-size: 18px;
+    }
+
+    .solution .transport .operat .box01 p.kk {
+        padding-right: 25px;
+    }
+
+    .solution .transport .operat .box02 p.kk {
+        padding-right: 26px;
+    }
+
+    .solution .transport .operat .box03 p.kk {
+        padding-right: 35px;
+    }
+
+    .solution .transport .operate .box01 p.kk {
+        padding-right: 8px;
+    }
+
+    .solution .transport .operate .box02 p.kk {
+        padding-right: 101px;
+    }
+
+    .solution .transport .operate .box03 p.kk {
+        padding-right: 62px;
+    }
+
+    .solution .transport .operat .box04 p.kk {
+        padding-right: 25px;
+    }
+
+    .solution .transport .operat .box05 p.kk {
+        padding-right: 72px;
+    }
+
+    .solution .transport .operat .box06 p.kk {
+        padding-right: 61px;
+    }
+
+    .solution .transport .operat:hover .icon i {
+        display: none;
+    }
+
+    .solution .magic {
+        height: 130px;
+    }
+
+    /* Companies */
+
+    .companies .magi .faq h2 {
+        font-size: 75px;
+    }
+
+    .companies .magi .redline {
+        top: 40px;
+        left: 91px;
+    }
+
+    .companies .magi {
+        height: 168px;
+    }
+
+    .companies .magi .properly .darkblue {
+        font-size: 35px;
+    }
+
+    .companies .magi .properly .blue {
+        font-size: 35px;
+    }
+
+    .companies .magi .properly {
+        top: 60px;
+        left: 0px;
+    }
+
+    /*---------------------------------------------------------Pricing------------------------------------------------------*/
+
+    /* Plans */
+
+    .plans .rectangleo p {
+        font-size: 17px;
+    }
+
+    .plans .rectangle p {
+        font-size: 17px;
+    }
+
+    .plans .rectanglee p {
+        font-size: 17px;
+    }
+
+    .plans .rectangleo p.war {
+        padding-right: 104px;
+    }
+
+    .plans .rectangleo p.real {
+        padding-right: 16px;
+    }
+
+    .plans .rectangleo p.perc {
+        padding-right: 87px;
+    }
+
+    .plans .rectangleo p.fifty {
+        padding-right: 37px;
+    }
+
+    .plans .rectanglee p.busin {
+        padding-right: 30px;
+    }
+
+    .plans .rectanglee p.war {
+        padding-right: 110px;
+    }
+
+    .plans .rectanglee p.perc {
+        padding-right: 90px;
+    }
+
+    .plans .rectanglee p.fifty {
+        padding-right: 40px;
+    }
+
+    .plans .rectangle p.war {
+        padding-right: 110px;
+    }
+
+    .plans .rectangle p.busin {
+        padding-right: 33px;
+    }
+
+    .plans .rectangle p.real {
+        padding-right: 19px;
+    }
+
+    .plans .rectangle p.perc {
+        padding-right: 90px;
+    }
+
+    .plans .rectangle p.fifty {
+        padding-right: 51px;
+    }
+
+    .plans h4 {
+        font-size: 48px;
+        margin-bottom: 20px;
+    }
+
+    /* Contract00 */
+
+    .contract00 {
+        padding: 0px 20px 60px 20px;
+    }
+
+    .contract00 h4 {
+        font-size: 55px;
+        margin-bottom: 15px;
+        line-height: 60px;
+    }
+
+    /* -------------------------------------------------------------Faq------------------------------------------------------------ */
+
+    /* Investor */
+
+    .investor .magi {
+        height: 300px;
+    }
+
+    .investor .magi .properly .darkblue {
+        font-size: 40px;
+    }
+
+    .investor .magi .properly .blue {
+        font-size: 40px;
+    }
+
+    .investor .inquire {
+        width: 320px;
+        margin-top: 50px;
+        padding: 10px;
+    }
+
+    .investor .inquire h4 {
+        font-size: 25px;
+    }
+
+    .investor .inquire p.team {
+        font-size: 17px;
+    }
+
+    .investor .inquire .numb p {
+        font-size: 17px;
+    }
+
+    .investor .inquire .gmail p {
+        font-size: 17px;
+    }
+
+}
